@@ -1,1 +1,1 @@
-# TextEditoer
+# TextEditor
